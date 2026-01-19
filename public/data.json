@@ -1,0 +1,257 @@
+{
+  "HeroData": [
+    {
+      "imgSrc": "/images/banner/Racheal_Aber.png"
+      
+    },
+    {
+      "imgSrc": "/images/banner/Racheal_Aber1.png"
+    },
+    {
+      "imgSrc": "/images/banner/Racheal_Aber2.png"
+    }
+  ],
+ "NavLinkData": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "My Services",
+      "href": "/#expertise"
+    },
+    {
+      "label": "Plans & Pricing",
+      "href": "/#pricing"
+    },
+    {
+      "label": "Client Reviews",
+      "href": "/#testimonials"
+    },
+    {
+      "label": "Work With Me",
+      "href": "/#contact"
+    }
+  ],
+  "ProjectData": [
+    {
+      "coverImg": "/images/project/blogforge.webp",
+      "name": "Blog Forge"
+    },
+    {
+      "coverImg": "/images/project/gleamer.webp",
+      "name": "Gleamer"
+    },
+    {
+      "coverImg": "/images/project/learnaxis.webp",
+      "name": "Learnaxis"
+    },
+    {
+      "coverImg": "/images/project/studiova.webp",
+      "name": "Studiova"
+    },
+    {
+      "coverImg": "/images/project/homely.webp",
+      "name": "Homely"
+    },
+    {
+      "coverImg": "/images/project/awake.webp",
+      "name": "Awake"
+    },
+    {
+      "coverImg": "/images/project/endeavor.webp",
+      "name": "Endeavor"
+    }
+  ],
+ "RecordData": [
+    {
+      "imgSrc": "/images/records/star.svg",
+      "digit": "4.7 Rating",
+      "desc": "Highly rated by satisfied clients for reliability and quality"
+    },
+    {
+      "imgSrc": "/images/records/user.svg",
+      "digit": "50+ Clients",
+      "desc": "Trusted by entrepreneurs, small businesses, and professionals"
+    },
+    {
+      "imgSrc": "/images/records/cart.svg",
+      "digit": "95% Retention",
+      "desc": "Client retention rate demonstrating consistent quality service"
+    },
+    {
+      "imgSrc": "/images/records/star.svg",
+      "digit": "5,000+ Hours",
+      "desc": "Total support hours provided to businesses across various industries"
+    }
+  ],
+ "ReviewData": [
+    {
+      "imgSrc": "/images/review/daniel.webp",
+      "name": "Sarah Johnson",
+      "rating": 4.8,
+      "desc": "Racheal transformed my overwhelmed schedule into a well-organized system. Her email management skills saved me 10+ hours weekly!"
+    },
+    {
+      "imgSrc": "/images/review/sophia.webp",
+      "name": "Michael Chen",
+      "rating": 4.9,
+      "desc": "As a small business owner, Racheal's admin support and social media management have been game-changers. Professional and reliable!"
+    },
+    {
+      "imgSrc": "/images/review/marcus.webp",
+      "name": "Lisa Williams",
+      "rating": 4.7,
+      "desc": "The website management and graphic design support Racheal provides allows me to focus on client work. Truly invaluable assistance."
+    }
+  ],
+"SpecializeData": [
+    {
+      "imgSrc": "/images/specialization/webdesign.svg",
+      "title": "Administrative Support",
+      "desc": "Comprehensive admin assistance including data entry, document preparation, and business correspondence."
+    },
+    {
+      "imgSrc": "/images/specialization/logodesign.svg",
+      "title": "Website Management",
+      "desc": "Website building, maintenance, updates, and content management for your online presence."
+    },
+    {
+      "imgSrc": "/images/specialization/mobileapp.svg",
+      "title": "Calendar & Email Management",
+      "desc": "Efficient scheduling, appointment coordination, and professional email handling."
+    },
+    {
+      "imgSrc": "/images/specialization/contentwrite.svg",
+      "title": "Graphic Design",
+      "desc": "Professional graphics for marketing materials, social media, and brand identity."
+    },
+    {
+      "imgSrc": "/images/specialization/seooptimize.svg",
+      "title": "Social Media Management",
+      "desc": "Content creation, scheduling, engagement, and strategy for your social platforms."
+    },
+    {
+      "imgSrc": "/images/specialization/digitalmarketing.svg",
+      "title": "Business Support",
+      "desc": "Comprehensive virtual assistance tailored to meet all your business operational needs."
+    }
+  ],
+  "PlanData": [
+    {
+      "type": "Starter",
+      "price": {
+        "monthly": 150,
+        "yearly": 1500
+      },
+      "desc": "Perfect for solopreneurs or small businesses needing part-time support.",
+      "option": [
+        "Up to 10 hours per month",
+        "Email management & inbox organization",
+        "Calendar scheduling & appointment setting",
+        "Basic data entry & document preparation",
+        "Email support with 24-hour response time"
+      ]
+    },
+    {
+      "type": "Professional",
+      "price": {
+        "monthly": 350,
+        "yearly": 3500
+      },
+      "desc": "Ideal for growing businesses requiring dedicated virtual assistance.",
+      "option": [
+        "Up to 30 hours per month",
+        "Full administrative support package",
+        "Social media content scheduling (3 platforms)",
+        "Basic graphic design for marketing materials",
+        "Website content updates & maintenance",
+        "Priority support with 12-hour response time"
+      ]
+    },
+    {
+      "type": "Business",
+      "price": {
+        "monthly": 650,
+        "yearly": 6500
+      },
+      "desc": "Comprehensive support for established businesses with multiple needs.",
+      "option": [
+        "Up to 50 hours per month",
+        "Complete business operation support",
+        "Full social media management & strategy",
+        "Custom graphic design & branding support",
+        "Website management & basic updates",
+        "Project coordination & team support",
+        "Dedicated account manager"
+      ]
+    }
+  ],
+  "CategoryData": [
+    {
+      "imgSrc": "/images/category/webdev.webp",
+      "title": "Web Design"
+    },
+    {
+      "imgSrc": "/images/category/logods.webp",
+      "title": "Logo Design"
+    },
+    {
+      "imgSrc": "/images/category/mobileapp.webp",
+      "title": "Mobile App Development"
+    },
+    {
+      "imgSrc": "/images/category/contentwrite.webp",
+      "title": "Content Writing"
+    },
+    {
+      "imgSrc": "/images/category/digitalmarket.webp",
+      "title": "Digital Marketing"
+    }
+  ],
+  "FooterLinkData": [
+    {
+      "section": "Company",
+      "links": [
+        {
+          "label": "Projects",
+          "href": "/#project"
+        },
+        {
+          "label": "Expertise",
+          "href": "/#expertise"
+        },
+        {
+          "label": "Pricing",
+          "href": "/#pricing"
+        },
+        {
+          "label": "Categories",
+          "href": "/#categories"
+        }
+      ]
+    },
+    {
+      "section": "Support",
+      "links": [
+        {
+          "label": "Help center",
+          "href": "/"
+        },
+        {
+          "label": "Terms of service",
+          "href": "/"
+        },
+        {
+          "label": "Legal",
+          "href": "/"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/"
+        }
+      ]
+    }
+  ]
+}
+
